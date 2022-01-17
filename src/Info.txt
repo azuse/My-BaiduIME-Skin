@@ -1,0 +1,6 @@
+﻿Name=apple风格划选布局
+Style=划选Apple
+Author=Ray
+SupportPlatform=SWIA
+MinImeCode=2.1
+VersionCode=1
