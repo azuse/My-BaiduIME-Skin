@@ -2,6 +2,8 @@
 echo "====remove previous build===="
 rm -rf output
 echo "====packaging===="
-zip src.zip -r src
+cd src
+zip ../src.zip -r *
+cd ..
 mkdir output
 mv src.zip output/myksin.bds
