@@ -6,7 +6,7 @@
 `sdcard0/baidu/ime/skins`
 
 ### 皮肤文件说明文档：
-`url here`
+![百度手机输入法2.1皮肤文档.pdf](https://raw.githubusercontent.com/azuse/My-BaiduIME-Skin/main/百度手机输入法2.1皮肤文档.pdf)
 
 ### 原作者信息
 ```
